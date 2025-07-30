@@ -39,6 +39,7 @@ An overview of the key libraries and tools that make this project possible:
 
 - [Python](https://www.python.org/) >= 3.8  
 - [NumPy](https://numpy.org/) – efficient numerical computations  
+- [SciPy](https://scipy.org/) – advanced scientific computing and linear algebra tools 
 - [Matplotlib](https://matplotlib.org/) – data visualization and plotting  
 - [Hatchling](https://hatch.pypa.io/) – build system for packaging  
 - [Twine](https://twine.readthedocs.io/) – uploading distributions to PyPI
