@@ -211,7 +211,7 @@ Computes the **total system response** by summing all modal contributions.
 
 ```python
 import matplotlib.pyplot as plt
-from src.mec_vibrations_calcs.n_dof_calc import *
+from mec_vibrations_calcs.n_dof_calc import *
 
 k = np.array([
     [1000, 0],
